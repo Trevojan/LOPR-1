@@ -14,28 +14,28 @@ Var
 PROCEDIMENTO "calculadora"
 inicio
    //Calculadora simples
-   escreval("Informe o primeiro n˙mero: ")
+   escreval("Informe o primeiro n√∫mero: ")
    leia(numeroA)
-   escreval("Informe o segundo n˙mero: ")
+   escreval("Informe o segundo n√∫mero: ")
    leia(numeroB)
-   escreval("Selecione a operaÁ„o: ")
-   escreval("1 >> Soma  2 >> SubtraÁ„o")
-   escreval("3 >> MultiplicaÁ„o  4 >> Divis„o")
+   escreval("Selecione a opera√ß√£o: ")
+   escreval("1 >> Soma  2 >> Subtra√ß√£o")
+   escreval("3 >> Multiplica√ß√£o  4 >> Divis√£o")
    leia(operacao)
 
    ESCOLHA(operacao)
      CASO 1
         resultado <- numeroA + numeroB
-        escreva("O resultado È: ",resultado)
+        escreva("O resultado √©: ",resultado)
      CASO 2
         resultado <- numeroA - numeroB
-        escreva("O resultado È: ",resultado)
+        escreva("O resultado √©: ",resultado)
      CASO 3
         resultado <- numeroA * numeroB
-        escreva("O resultado È: ",resultado)
+        escreva("O resultado √©: ",resultado)
      CASO 4
         resultado <- numeroA / numeroB
-        escreva("O resultado È: ",resultado)
+        escreva("O resultado √©: ",resultado)
    FIMESCOLHA
 FIMPROCEDIMENTO
 
@@ -47,7 +47,5 @@ Inicio
    ensinoMedio <- VERDADEIRO
    
    calculadora
-
-
 
 Fimalgoritmo
