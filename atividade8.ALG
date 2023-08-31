@@ -43,6 +43,7 @@ Inicio
    escreval("Segundo nhumero elevado ao primeiro: ",numero3)
    escreval("")
    escreval("Pressione ENTER para repetir.")
+
    leia(ok)
    limpatela
 FIMPROCEDIMENTO

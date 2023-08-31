@@ -11,6 +11,7 @@ inicio
    leia(numero)
    escreva("O antecessor é ",numero-1)
    escreval("E o sucessor é ",numero+1)
+
    leia(ok)
    limpatela
 FIMPROCEDIMENTO

@@ -13,6 +13,7 @@ Inicio
    leia(moedaReal)
    escreval("")
    escreval("O valor total e: $",Dolar*moedaReal)
+
    leia(ok)
    limpatela
 FIMPROCEDIMENTO

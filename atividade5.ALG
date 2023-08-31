@@ -15,6 +15,7 @@ Inicio
    escreval("   |      |")
    escreval("   |",numero^2,"cm|")
    escreval("   |______|")
+
    leia(ok)
    limpatela
 FIMPROCEDIMENTO

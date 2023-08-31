@@ -20,6 +20,7 @@ Inicio
    volume <- (raio^2)*VALOR_PI*cmAltura
 
    escreval("O volume da lata e de ",volume/1000,"l.")
+
    leia(ok)
    limpatela
 FIMPROCEDIMENTO

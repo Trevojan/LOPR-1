@@ -16,6 +16,7 @@ Inicio
    escreval("")
    IMC <- (peso*altura)^2
    escreva("Seu IMC e: ",IMC,"!")
+
    leia(ok)
    limpatela
 FIMPROCEDIMENTO

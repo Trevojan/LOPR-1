@@ -10,11 +10,15 @@ var
 
 PROCEDIMENTO "insira"
 Inicio
+   escreval("CALCULE O VALOR PARA VENDA!)
+   escreval("")
    escreva("Valor da compra: R$")
    leia(valorCompra)
    renda <- valorCompra * representante * impostos
    escreval("O valor de venda e: ",renda)
 
+   leia(ok)
+   limpatela
 FIMPROCEDIMENTO
 
 Inicio

@@ -27,6 +27,7 @@ inicio
    media <- (janeiro+fevereiro+marco)/meses
    escreval("A media dos lucros dos meses Janeiro, Fevereiro e Marco e: ")
    escreval("R$",media)
+
    leia(ok)
    limpatela
 FIMPROCEDIMENTO

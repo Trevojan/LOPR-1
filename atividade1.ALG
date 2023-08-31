@@ -20,6 +20,7 @@ inicio
    leia(ano)
    escreval("")
    escreval("Seu nome e ",nome," e voce nasceu em ",dia,"/",mes,"/",ano)
+
    leia(ok)
    limpatela
 FIMPROCEDIMENTO
