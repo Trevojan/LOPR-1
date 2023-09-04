@@ -14,7 +14,7 @@ Inicio
    escreva("Altura: ")
    leia(altura)
    escreval("")
-   IMC <- (peso*altura)^2
+   IMC <- peso*(altura^2)
    escreva("Seu IMC e: ",IMC,"!")
 
    leia(ok)
